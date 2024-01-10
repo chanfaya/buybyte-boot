@@ -15,6 +15,7 @@
         <module>buybyte-order</module>
         <module>buybyte-product</module>
         <module>buybyte-ware</module>
+        <module>buybyte-common</module>
     </modules>
 
 </project>
